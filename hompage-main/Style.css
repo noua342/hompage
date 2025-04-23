@@ -1,0 +1,62 @@
+
+h1 {
+    color: #ffffff;/*文字色*/
+    padding: 0.5em 0;/*上下の余白*/
+    border-top: solid 3px #364e96;/*上線*/
+    border-bottom: solid 3px #364e96;/*下線*/
+    text-align: center;
+    background-color: black;
+  }
+
+  h2 {
+    color: rgb(255, 255, 255);
+    text-align: light;
+
+  }
+
+  body {
+    margin: 0;
+    width: 100vw;
+    height: 100vh;
+    background-image:url("background_image.png");
+  }
+  
+  h4 {
+    color: white;
+  }
+
+  h5 {
+    color: #ffffff;
+  }
+
+  img {
+    width: 180px;
+  }
+
+  h3 {
+    text-align: center;
+    color: azure;
+  }
+
+  h3 {
+    text-align: left;
+    size: 30px;
+  }
+
+  h4{
+    text-align: left;
+    color: #ffffff;
+  }
+
+  li {
+    text-align: left;
+    color: #ffffff;
+  }
+
+h4{
+    color: rgb(255, 255, 255);
+}
+
+button{
+    color: rgb(0, 0, 0);
+}
